@@ -1,0 +1,7 @@
+baseURL = "/"
+title = "Lattice"
+theme = "lattice"
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
